@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+h1
+{
+	color:red;
+	font-family: Comic Sans MS;
+}
+h3
+{
+	color: blue;
+	font-family: cursive;
+}
+table, th, td
+{
+	font-family: Segoe Script;
+	border: 5px solid black;
+	border-radius: 10px;
+	border-style: groove;
+}
+body
+{
+	background-image: url("/student-management/URLToReachImagesFolder/background1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-attachment: fixed;
+    padding: 35px;
+}
